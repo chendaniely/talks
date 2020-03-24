@@ -1,3 +1,6 @@
 [submodule "2020-03-28-satRday-gradethis"]
 	path = 2020-03-28-satRday-gradethis
 	url = git@github.com:chendaniely/2020-03-28-satRday-gradethis.git
+[submodule "talk_template"]
+	path = talk_template
+	url = git@github.com:chendaniely/talk_template.git
